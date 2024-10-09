@@ -1,0 +1,2 @@
+This is sample-file
+an I am learning NODE Js core module _ fs module.
